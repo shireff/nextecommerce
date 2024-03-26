@@ -238,7 +238,7 @@ export default function Footer() {
                       Our Team{" "}
                     </a>
                   </li>
-                </ul>
+                </ul>np,
               </div>
 
               <div>
